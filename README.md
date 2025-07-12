@@ -31,7 +31,5 @@
 
 #
 
-<br>
-
 <p align="center"><i>be your true mind.</i></p>
 
